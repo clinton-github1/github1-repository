@@ -1,1 +1,2 @@
-Example of text file in a repository
+Example of text file in a repository 
+
